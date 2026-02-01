@@ -38,7 +38,7 @@
         <img src="https://raw.githubusercontent.com/Angelithoxz/Ryusei-Club/main/uploads/1769779354971.jpeg" width="50" height="50" style="border-radius: 10px;" />
       </td>
       <td>
-        <a href="https://github.com/the-xyzz/the-xyzz">
+        <a href="https://github.com/the-xyzz">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=the-xyzz&repo=the-xyzz&theme=transparent&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF&border_color=30363D" />
         </a>
       </td>
