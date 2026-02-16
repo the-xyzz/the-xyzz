@@ -1,16 +1,16 @@
-## Welcome to my profile | the-xyzz
+## Welcome to my profile | DevZylJx
 
 ---
 
 <table>
   <tr>
     <td>
-      <a href="https://github.com/the-xyzz">
+      <a href="https://github.com/DevZylJx">
         <img src="https://files.catbox.moe/abofe1.jpg" height="250px" style="border-radius: 10px;">
       </a>
     </td>
     <td>
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=500&color=00B4D8&center=true&vCenter=true&width=500&lines=the-xyzz+Creator;Killua+Wabot+Founder;Software+Developer" alt="Typing SVG">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=500&color=00B4D8&center=true&vCenter=true&width=500&lines=DevZylJx+Creator;Killua+Wabot+Founder;Software+Developer" alt="Typing SVG">
     </td>
   </tr>
 </table>
@@ -27,7 +27,7 @@
 
 ## 📊 GitHub Stats
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=the-xyzz&theme=tokyonight&hide_border=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=DevZylJxtheme=tokyonight&hide_border=true)
 
 ---
 
@@ -43,7 +43,7 @@
 
 ## 📈 Recent Activity
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=the-xyzz&theme=tokyonight)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DevZylJx&theme=tokyonight)
 
 ---
 
@@ -55,5 +55,5 @@
 
 ---
 <div align="center">
-Desarrollado por the-xyzz
+Desarrollado por DevZylJx
 </div>
